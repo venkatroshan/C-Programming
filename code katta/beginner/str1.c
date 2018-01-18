@@ -4,11 +4,11 @@
 void main()
 {
     char s[200];
-    int count = 0, i;
+    int count = 0, j;
  
 
     scanf("%[^\n]s", s);
-    for (i = 0;s[i] != '\0';i++)
+    for (j = 0;s[j] != '\0';j++)
     {
         
             count++;    
