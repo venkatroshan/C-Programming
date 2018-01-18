@@ -3,15 +3,15 @@
 int main()
 {
 	int n,i;
-	char str[10];
+	char s[10];
 	printf("enter the string ");
-    gets(str);
+    gets(s);
 	printf("enter n ");
     scanf("%d",&n);
 
 	for(i=0;i<n;i++)
 	{
-	   printf("%s\n",str);   
+	   printf("%s\n",s);   
 	   	
 	}
 }
