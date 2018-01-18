@@ -7,7 +7,7 @@ void main()
     int count = 0, i;
  
 
-    scanf("%[^\n]s", s);
+    scanf("%s", s);
     for (i = 0;s[i] != '\0';i++)
     {
         if (s[i] == ' ')
