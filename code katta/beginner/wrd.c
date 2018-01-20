@@ -5,7 +5,7 @@
 int main(void)
 
 {
-	int i,n,count=1;
+	int i,n,count=1,j;
 	char a[10];
 	gets(a);
 	n=strlen(a);
