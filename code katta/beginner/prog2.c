@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main() 
+void main() 
 {
 int n,m,i;
 int count=0;
